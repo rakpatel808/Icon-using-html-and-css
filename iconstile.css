@@ -58,10 +58,6 @@ a:hover i::before{
   background-image: linear-gradient(135deg,#1da1f2 30%,#0CED0B 50%);
 }
 
-.fa-youtube::before{
-  background-image: linear-gradient(135deg,#d71e18 30%,#0CED0B 50%);
-}
-
-.fa-discord::before{
-  background-image: linear-gradient(135deg,#007bb5 30%,#0CED0B 50%);
+.fa-instagram::before{
+  background-image: linear-gradient(165deg,#cf2aa3 60%,#0CED0B 90%);
 }
